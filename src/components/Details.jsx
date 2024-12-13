@@ -1,7 +1,5 @@
 import img7 from "../img/img15.jpeg";
 import Contact from "./Contact";
-import Members from "./Members";
-
 function details(){
   return(
         <>
@@ -74,12 +72,6 @@ function details(){
   </div>
 </div>
 
-
-
-
-
-
-<Members/>
 <Contact/>
         </>
 )
